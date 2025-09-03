@@ -6,7 +6,7 @@ Atividades desenvolvidas para o laboratório de banco de dados 1 do Instituto Na
 
 Este projeto idealiza a estrutura de uma academia utilizando MySQL para modelar o banco de dados. Ele explora o básico de entidades e relacionamentos para gerenciar alunos, professores, modalidades e equipamentos.
 
-#🏢 Entidades
+# 🏢 Entidades
 
 As principais entidades do sistema são:
 
@@ -20,7 +20,7 @@ Professor 👩‍🏫
 
 Gestor 🧑‍💼
 
-#🔗 Relacionamentos
+# 🔗 Relacionamentos
 
 A seguir, estão os relacionamentos entre as entidades, definidos conforme o tipo de cardinalidade:
 
