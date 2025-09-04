@@ -1,6 +1,9 @@
 # BD1_Lab
 Atividades desenvolvidas para o laboratório de banco de dados 1 do Instituto Nacional de Telecomunicações
 
+#Alexandre Ribeiro dos Santos Matricula: 1893
+#Bruce Brandão Alvarenga Matricula: 326
+
 
 # Projeto de Academia 🏋️‍♀️
 
